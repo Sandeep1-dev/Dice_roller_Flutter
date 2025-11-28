@@ -33,8 +33,6 @@ Each time the user taps the **Roll Dice** button, the app generates a random num
 
 ## ✅ Installation & Run
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sandeep1-dev/Dice_roller_Flutter.git
 flutter pub get
 flutter run
-
